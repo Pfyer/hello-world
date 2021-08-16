@@ -1,3 +1,3 @@
 # hello-world
-I have no idea what I am doing
-But I have to start somewhere
+I have no idea what I am doing.
+But I have to start somewhere.
